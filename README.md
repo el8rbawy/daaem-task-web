@@ -1,10 +1,3 @@
-# Dragify AI Project - Landing Frontend
-This project uses the [Next.js](https://nextjs.org/) React Framework for the Web.
-
-## Requirements
-- [Node.js](https://nodejs.org/en) (LTS Version) <br>
-Note: When installing always click next, No click anything else.
-
 ## Installation
 Install dependencies:
    ```bash
